@@ -10,3 +10,6 @@
 [submodule "software/print-profiles"]
 	path = software/print-profiles
 	url = https://code.alephobjects.com/diffusion/P/print-profiles.git
+[submodule "software/slic3r/source"]
+	path = software/slic3r/source
+	url = https://github.com/alexrj/Slic3r.git
