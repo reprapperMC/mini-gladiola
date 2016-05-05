@@ -1,0 +1,3 @@
+[submodule "software/cura/Source"]
+	path = software/cura/Source
+	url = https://code.alephobjects.com/diffusion/CURA/cura.git
