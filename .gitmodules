@@ -13,3 +13,6 @@
 [submodule "software/slic3r/source"]
 	path = software/slic3r/source
 	url = https://github.com/alexrj/Slic3r.git
+[submodule "production_parts/Electronics/mini-Rambo/Source"]
+	path = production_parts/Electronics/mini-Rambo/Source
+	url = https://github.com/johnnyr/Mini-Rambo.git
