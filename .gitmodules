@@ -1,3 +1,9 @@
 [submodule "software/cura/Source"]
 	path = software/cura/Source
 	url = https://code.alephobjects.com/diffusion/CURA/cura.git
+[submodule "software/firmware/Source"]
+	path = software/firmware/Source
+	url = https://code.alephobjects.com/diffusion/MARLIN/marlin.git
+[submodule "documentation/Manual/Source"]
+	path = documentation/Manual/Source
+	url = https://code.alephobjects.com/diffusion/MD/mini-docs.git
