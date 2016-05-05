@@ -7,3 +7,6 @@
 [submodule "documentation/Manual/Source"]
 	path = documentation/Manual/Source
 	url = https://code.alephobjects.com/diffusion/MD/mini-docs.git
+[submodule "software/print-profiles"]
+	path = software/print-profiles
+	url = https://code.alephobjects.com/diffusion/P/print-profiles.git
