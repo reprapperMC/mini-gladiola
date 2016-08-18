@@ -15,4 +15,4 @@
 	url = https://github.com/johnnyr/Mini-Rambo.git
 [submodule "software/firmware/Marlin_Gladiola_v1.1.0.8_900d3ad"]
 	path = software/firmware/Marlin_Gladiola_v1.1.0.8_900d3ad
-	url = ssh://git@code.alephobjects.com/diffusion/MARLIN/marlin.git
+	url = https://code.alephobjects.com/diffusion/MARLIN/marlin.git
