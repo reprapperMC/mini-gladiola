@@ -3,8 +3,8 @@ HEADER;
 FILE_DESCRIPTION(('FreeCAD Model'),'2;1');
 FILE_NAME(
 '/home/aleph/mini-gladiola/production_parts/machined_parts/top_plate_
-mini/top_plate_mini_v1.1_revE.step','2016-08-16T15:03:16',('Author'),(''
-    ),'Open CASCADE STEP processor 6.8','FreeCAD','Unknown');
+mini/top-plate-mini_PP-FP0051_revF.step','2016-08-25T11:15:10',('Author'
+    ),(''),'Open CASCADE STEP processor 6.8','FreeCAD','Unknown');
 FILE_SCHEMA(('AUTOMOTIVE_DESIGN_CC2 { 1 2 10303 214 -1 1 5 4 }'));
 ENDSEC;
 DATA;
