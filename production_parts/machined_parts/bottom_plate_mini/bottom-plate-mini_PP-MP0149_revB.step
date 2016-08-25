@@ -3,7 +3,7 @@ HEADER;
 FILE_DESCRIPTION(('FreeCAD Model'),'2;1');
 FILE_NAME(
 '/home/aleph/mini-gladiola/production_parts/machined_parts/bottom_plate_
-mini/bottom_plate_mini_v1.2_PP-MP0149.step','2016-07-14T09:25:45',(
+mini/bottom-plate-mini_PP-MP0149_revB.step','2016-08-25T13:24:59',(
     'Author'),(''),'Open CASCADE STEP processor 6.8','FreeCAD','Unknown'
   );
 FILE_SCHEMA(('AUTOMOTIVE_DESIGN_CC2 { 1 2 10303 214 -1 1 5 4 }'));
