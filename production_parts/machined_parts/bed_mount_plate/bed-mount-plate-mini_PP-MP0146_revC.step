@@ -3,7 +3,7 @@ HEADER;
 FILE_DESCRIPTION(('FreeCAD Model'),'2;1');
 FILE_NAME(
 '/home/aleph/mini-gladiola/production_parts/machined_parts/bed_mount_
-plate/bed_mount_plate_mini_v1.2_revB.step','2016-08-17T09:52:26',(
+plate/bed-mount-plate-mini_PP-MP0146_revC.step','2016-08-25T11:30:12',(
     'Author'),(''),'Open CASCADE STEP processor 6.8','FreeCAD','Unknown'
   );
 FILE_SCHEMA(('AUTOMOTIVE_DESIGN_CC2 { 1 2 10303 214 -1 1 5 4 }'));
@@ -6841,7 +6841,7 @@ SHAPE_REPRESENTATION_RELATIONSHIP() );
 #5656 = ITEM_DEFINED_TRANSFORMATION('','',#11,#15);
 #5657 = PRODUCT_DEFINITION_SHAPE('Placement','Placement of an item',
   #5658);
-#5658 = NEXT_ASSEMBLY_USAGE_OCCURRENCE('3','=>[0:1:1:2]','',#5,#5649,$);
+#5658 = NEXT_ASSEMBLY_USAGE_OCCURRENCE('1','=>[0:1:1:2]','',#5,#5649,$);
 #5659 = PRODUCT_TYPE('part',$,(#5651));
 #5660 = MECHANICAL_DESIGN_GEOMETRIC_PRESENTATION_REPRESENTATION('',(
     #5661),#5642);
