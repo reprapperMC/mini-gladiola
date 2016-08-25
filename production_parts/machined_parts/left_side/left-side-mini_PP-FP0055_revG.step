@@ -3,8 +3,8 @@ HEADER;
 FILE_DESCRIPTION(('FreeCAD Model'),'2;1');
 FILE_NAME(
 '/home/aleph/mini-gladiola/production_parts/machined_parts/left_
-side/left_side_mini_revG.step','2016-08-17T07:41:32',('Author'),(''),
-  'Open CASCADE STEP processor 6.8','FreeCAD','Unknown');
+side/left-side-mini_PP-FP0055_revG.step','2016-08-25T12:37:27',('Author'
+    ),(''),'Open CASCADE STEP processor 6.8','FreeCAD','Unknown');
 FILE_SCHEMA(('AUTOMOTIVE_DESIGN_CC2 { 1 2 10303 214 -1 1 5 4 }'));
 ENDSEC;
 DATA;
