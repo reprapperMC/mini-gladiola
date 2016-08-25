@@ -13,6 +13,6 @@
 [submodule "production_parts/Electronics/mini-Rambo/Source"]
 	path = production_parts/Electronics/mini-Rambo/Source
 	url = https://github.com/johnnyr/Mini-Rambo.git
-[submodule "software/firmware/Marlin_Gladiola_v1.1.0.8_1199cb9"]
-	path = software/firmware/Marlin_Gladiola_v1.1.0.8_1199cb9
+[submodule "software/firmware/Marlin_Gladiola_v1.1.0.8_60fef9b"]
+	path = software/firmware/Marlin_Gladiola_v1.1.0.8_60fef9b
 	url = https://code.alephobjects.com/diffusion/MARLIN/marlin.git
