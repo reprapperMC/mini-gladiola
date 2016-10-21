@@ -2,3 +2,4 @@ attic/
 ATTIC/
 .~lock.*
 *.fcstd1
+*.ini
