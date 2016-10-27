@@ -1,6 +1,6 @@
 G28
 
-G1 F480 Z30
+G1 F480 Z40
 
 M18
 M104 S0 ; turn off nozzle temperature
