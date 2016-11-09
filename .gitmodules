@@ -13,3 +13,6 @@
 [submodule "software/firmware/Marlin_Gladiola_v1.1.0.9_e69d503"]
 	path = software/firmware/Marlin_Mini_v1.1.0.9
 	url = https://code.alephobjects.com/diffusion/MARLIN/marlin.git
+[submodule "documentation/Manual/Source"]
+	path = documentation/Manual/Source
+	url = https://code.alephobjects.com/diffusion/MD/mini-docs.git
