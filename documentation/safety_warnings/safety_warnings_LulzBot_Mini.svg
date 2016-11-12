@@ -25,8 +25,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.0710075"
-     inkscape:cx="249.05329"
-     inkscape:cy="994.35412"
+     inkscape:cx="343.82387"
+     inkscape:cy="728.24954"
      inkscape:current-layer="layer3"
      id="namedview2999"
      showgrid="true"
@@ -34,10 +34,10 @@
      showguides="true"
      inkscape:guide-bbox="true"
      units="in"
-     inkscape:window-width="1879"
-     inkscape:window-height="1022"
-     inkscape:window-x="41"
-     inkscape:window-y="0"
+     inkscape:window-width="1920"
+     inkscape:window-height="1028"
+     inkscape:window-x="0"
+     inkscape:window-y="30"
      inkscape:window-maximized="1">
     <inkscape:grid
        type="xygrid"
@@ -66,7 +66,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -521,7 +521,7 @@
            width="574.77014"
            id="rect4825" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:14.33081913px;line-height:125%;font-family:Titillium;-inkscape-font-specification:'Titillium Semi-Bold';text-align:justify;writing-mode:lr-tb;text-anchor:start;fill:#484848;fill-opacity:1"
-         id="flowPara4829">2016-10-13</flowPara></flowRoot>    <flowRoot
+         id="flowPara4829">2016-11-12</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot3121"
        style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Outage;font-style:normal;font-weight:bold;font-size:16px;line-height:125%;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:Outage Bold;font-stretch:normal;font-variant:normal"><flowRegion
@@ -551,7 +551,7 @@
                style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';fill:#484848;fill-opacity:1"
                ry="0" /></flowRegion><flowPara
              id="flowPara4819"
-             style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:13.25627804px;line-height:125%;font-family:Titillium;-inkscape-font-specification:'Titillium Semi-Bold';text-align:justify;writing-mode:lr-tb;text-anchor:start;fill:#484848;fill-opacity:1">Use the LulzBot TAZ 6 in a well ventilated space.</flowPara></flowRoot>        <flowRoot
+             style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:13.25627804px;line-height:125%;font-family:Titillium;-inkscape-font-specification:'Titillium Semi-Bold';text-align:justify;writing-mode:lr-tb;text-anchor:start;fill:#484848;fill-opacity:1">Use the LulzBot Mini in a well ventilated space.</flowPara></flowRoot>        <flowRoot
            xml:space="preserve"
            id="flowRoot4811"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';letter-spacing:0px;word-spacing:0px;fill:#484848;fill-opacity:1;stroke:none"
