@@ -13,3 +13,6 @@
 [submodule "production_parts/Electronics/mini-Rambo/Source"]
 	path = production_parts/Electronics/mini-Rambo/Source
 	url = https://github.com/johnnyr/Mini-Rambo.git
+[submodule "software/firmware/Source"]
+	path = software/firmware/Source
+	url = https://code.alephobjects.com/diffusion/MARLIN/marlin.git
