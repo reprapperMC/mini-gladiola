@@ -1,6 +1,9 @@
 [submodule "software/cura/Source"]
 	path = software/cura/Source
 	url = https://code.alephobjects.com/diffusion/CURA/cura.git
+[submodule "documentation/Manual/Source"]
+	path = documentation/Manual/Source
+	url = https://code.alephobjects.com/diffusion/MD/mini-docs.git
 [submodule "software/print-profiles"]
 	path = software/print-profiles
 	url = https://code.alephobjects.com/diffusion/P/print-profiles.git
@@ -10,9 +13,3 @@
 [submodule "production_parts/Electronics/mini-Rambo/Source"]
 	path = production_parts/Electronics/mini-Rambo/Source
 	url = https://github.com/johnnyr/Mini-Rambo.git
-[submodule "software/firmware/Marlin_Gladiola_v1.1.0.9_e69d503"]
-	path = software/firmware/Marlin_Mini_v1.1.0.9
-	url = https://code.alephobjects.com/diffusion/MARLIN/marlin.git
-[submodule "documentation/Manual/Source"]
-	path = documentation/Manual/Source
-	url = https://code.alephobjects.com/diffusion/MD/mini-docs.git
