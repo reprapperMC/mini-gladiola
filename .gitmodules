@@ -14,5 +14,5 @@
 	path = production_parts/Electronics/mini-Rambo/Source
 	url = https://github.com/johnnyr/Mini-Rambo.git
 [submodule "software/firmware/Mini_Gladiola_Albatross_or_Brambling_v1.1.0.11_fb1929d"]
-	path = software/firmware/Mini_Gladiola_Albatross_or_Brambling_v1.1.0.11_fb1929d
+	path = software/firmware/Source
 	url = https://code.alephobjects.com/diffusion/MARLIN/marlin.git
